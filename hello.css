@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 12px;
+    background-color:rgb(255, 166, 0);
+    text-decoration:solid
+}
+h1{
+    text-align:center;
+    text-decoration:underline;
+
+
+}
